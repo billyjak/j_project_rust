@@ -1,0 +1,518 @@
+{
+  "nouns": {
+    "fish": {
+      "roman": "sakana",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "cat": {
+      "roman": "neko",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "apple": {
+      "roman": "ringo",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "smartphone": {
+      "roman": "sumaho",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "map": {
+      "roman": "chizu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "ticket": {
+      "roman": "kipu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "student": {
+      "roman": "gakusei",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "school": {
+      "roman": "gako",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "subway": {
+      "roman": "chikatetsu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "big": {
+      "roman": "ooki",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "health": {
+      "roman": "genki",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "person": {
+      "roman": "hito",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "doctor": {
+      "roman": "isha",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "lawyer": {
+      "roman": "bengoshi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "water": {
+      "roman": "mizu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "rice": {
+      "roman": "gohan",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "sushi": {
+      "roman": "sushi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "tea": {
+      "roman": "ocha",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "friend": {
+      "roman": "tomodachi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "work": {
+      "roman": "shigoto",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "busy": {
+      "roman": "isogashi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "family": {
+      "roman": "kazoku",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "welcome": {
+      "roman": "youkoso",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "bird": {
+      "roman": "tori",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "foreign": {
+      "roman": "gaikoku",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "foreign person": {
+      "roman": "gaikokujin",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  },
+  "verbs": {
+    "clean": {
+      "roman": "kirei",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "study": {
+      "roman": "benkyo",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  },
+  "adjectives": {
+    "tasty": {
+      "roman": "oishi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "small": {
+      "roman": "chisai",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  },
+  "school": {
+    "School": {
+      "roman": "gako",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "School Student": {
+      "roman": "gakusei",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Elementary School": {
+      "roman": "shogako",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Elementary School Student": {
+      "roman": "shogakusei",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Middle School": {
+      "roman": "chugako",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Middle School Student": {
+      "roman": "chugakusei",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "High School": {
+      "roman": "koukou",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "High School Student": {
+      "roman": "koukousei",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "University": {
+      "roman": "daigaku",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "University Student": {
+      "roman": "daigakusei",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Study": "benkyou"
+  },
+  "conjugation": {
+    "To do": {
+      "roman": "shimasu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "To not have done": {
+      "roman": "shimasen",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Have done": {
+      "roman": "shimashita",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Was": {
+      "roman": "deshita",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Buy": {
+      "roman": "kaI",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  },
+  "times": {
+    "1": {
+      "roman": "ichi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "2": {
+      "roman": "ni",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "3": {
+      "roman": "san",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "4": {
+      "roman": "yon",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "5": {
+      "roman": "go",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "6": {
+      "roman": "roku",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "7": {
+      "roman": "nana *for some stupid reason this is often pronounced shichi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "8": {
+      "roman": "hachi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "9": {
+      "roman": "kyu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "10": {
+      "roman": "ju",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "11": {
+      "roman": "ten one:juichi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "25": {
+      "roman": "two ten five:nijugo",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Hour": {
+      "roman": "jikan",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "One hour": {
+      "roman": "ichijikan",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "even hours": {
+      "roman": "juichijikan",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "When": {
+      "roman": "itsu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Now": {
+      "roman": "ima",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  },
+  "countries": {
+    "Japan": {
+      "roman": "nihon",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "UK": {
+      "roman": "igarisu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "America": {
+      "roman": "amerika",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Brazil": {
+      "roman": "burajiru",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  },
+  "directions": {
+    "Left": {
+      "roman": "hidari",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Right": {
+      "roman": "migi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Up": {
+      "roman": "ue",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Down": {
+      "roman": "shita",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  },
+  "family": {
+    "(my) Older sister": {
+      "roman": "ane",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "(my) Older brother": {
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture",
+      "roman": "ani"
+    },
+    "Older Sister": {
+      "roman": "onesan",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Older Brother": {
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture",
+      "roman": "onisan"
+    },
+    "Younger sister": {
+      "roman": "imouto",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Younger brother": {
+      "roman": "otouto",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Dad": {
+      "roman": "chichi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Mom": {
+      "roman": "haha (or Wawa apparently)",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Mother": {
+      "roman": "okasan",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Father": {
+      "roman": "otousan",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "(my) Wife": {
+      "roman": "Tsuma",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "(my) Husband": {
+      "roman": "otto",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Husband": {
+      "roman": "goshujin",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Wife": {
+      "roman": "okusama",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "He/him": {
+      "roman": "kare",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "She/her": {
+      "roman": "kanojo",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  },
+  "days": {
+    "Yesterday": {
+      "roman": "kino",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Today": {
+      "roman": "kyou",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Tomorrow": {
+      "roman": "ashita",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "The day after tomorrow": {
+      "roman": "assatte",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Weekday": {
+      "roman": "eijitsu",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Every Morning": {
+      "roman": "maiasa",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Sunday": {
+      "roman": "nichiyobi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Monday": {
+      "roman": "getsuyobi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Tuesday": {
+      "roman": "kayobi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Wednesday": {
+      "roman": "suiyobi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Thursday": {
+      "roman": "mokuyobi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Friday": {
+      "roman": "kinyobi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    },
+    "Saturday": {
+      "roman": "doyobi",
+      "kana": "japKeyboardThing",
+      "kanji": "fancyPicture"
+    }
+  }
+}
