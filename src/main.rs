@@ -11,12 +11,15 @@ fn main() {
     let data: Value = serde_json::from_str(&contents).unwrap();
 
     let random_category = find_random_category(&data);
-    let random_word = find_random_word(random_category.1);
-    let answer = find_roman(random_word.1, "roman");
+    let (category_string, value_of_remaining_json) = random_category;
+    println!("The category is: {}", category_string);
 
-    println!("{}", random_category.0);
-    println!("{}", random_word.0);
-    println!("{}", answer);
+    let random_word = find_random_word(value_of_remaining_json);
+    let (word_string, value_of_remaining_json) = random_word;
+    println!("The English word(s) is: {}", word_string);
+
+    let answer = find_roman(value_of_remaining_json, "roman");
+    println!("The japenese pronunciation is: {}", answer);
 }
 
 fn find_random_category<'a>(data: &'a Value) -> (std::string::String, Option<&Value>) {
