@@ -7,15 +7,15 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug executable 'JProjectRust'",
+            "name": "Debug executable 'j_project_rust'",
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=JProjectRust",
-                    "--package=JProjectRust"
+                    "--bin=j_project_rust",
+                    "--package=j_project_rust"
                 ],
                 "filter": {
-                    "name": "JProjectRust",
+                    "name": "j_project_rust",
                     "kind": "bin"
                 }
             },
@@ -25,16 +25,16 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug unit tests in executable 'JProjectRust'",
+            "name": "Debug unit tests in executable 'j_project_rust'",
             "cargo": {
                 "args": [
                     "test",
                     "--no-run",
-                    "--bin=JProjectRust",
-                    "--package=JProjectRust"
+                    "--bin=j_project_rust",
+                    "--package=j_project_rust"
                 ],
                 "filter": {
-                    "name": "JProjectRust",
+                    "name": "j_project_rust",
                     "kind": "bin"
                 }
             },
