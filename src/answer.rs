@@ -1,0 +1,3 @@
+struct Answer {
+    answer: String,
+}
