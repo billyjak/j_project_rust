@@ -1,9 +1,8 @@
-struct Answer {
-    word: String,
+pub struct Answer {
 }
 
 impl Answer {
-    fn get_word_for_answer(&self) {
+    pub fn get_word_for_answer(self, word: String, language: String) {
         
     }
 }
