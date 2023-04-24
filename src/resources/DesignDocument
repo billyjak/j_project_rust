@@ -1,0 +1,66 @@
+Practices
+
+
+	eng = The English word. 
+	rom = The romanized spelling of the Japanese word. 
+	kna = The kana for a word, be it Hiragana or Katakana. 
+	knj = The Kanji for a word. 
+		hir = The Hiragana. 
+		kat = The Katakana. 
+
+
+
+	given -> input
+	
+	Types: 
+
+	1)
+		eng -> rom
+		eng -> kna
+		eng -> knj
+
+	2)
+		rom -> eng
+		rom -> kna (multiple choice)
+			rom -> hir (multiple choice)
+			rom -> kat (multiple choice)
+		rom -> knj
+
+	3)
+		knj -> eng
+		knj -> kna
+		knj -> rom
+
+	4)
+		hir -> rom
+		kat -> rom
+
+
+
+Page 1:
+What kind of practice would you like? 
+1 Random
+2 Flashcard
+3 QnA
+
+Page 2:
+What kind of language do you want to see?
+1 Random
+2 English
+3 Kanji
+4 Roman
+5 Kana
+
+Page 3:
+What kind of language do you want to guess?
+curated languages from page 2
+for example, if English is selected, you will be given the options avilable, such as Kanji, Roman, Kana
+
+Page 2.5:
+1 Hiragana
+2 Katakana
+
+
+
+
+

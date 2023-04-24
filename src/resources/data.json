@@ -1,6 +1,7 @@
 {
   "nouns": {
     "fish": {
+      "english": "fish",
       "roman": "sakana",
       "kana": "japKeyboardThing",
       "kanji": "fancyPicture"

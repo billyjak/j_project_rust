@@ -3,15 +3,22 @@ enum Variant {
     Katakana,
 }
 
-enum LanguageToDisplay {
+enum StyleOfQuestion {
+    Flashcard,
+    QandA,
+    MultipleChoice,
+}
+
+enum PromptLanguage {
     English,
     Kanji,
     Roman,
     Kana(Variant),
 }
 
-enum StyleOfQuestion {
-    Flashcard,
-    QandA,
-    MultipleChoice,
+enum AnswerLanguage {
+    English,
+    Kanji,
+    Roman,
+    Kana(Variant),
 }
