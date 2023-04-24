@@ -22,8 +22,29 @@ fn main() {
 
     let answer = find_roman(value_of_remaining_json, "roman");
     println!("The japenese pronunciation is: {}", answer);
+ let d = Dog { parent: Animal };
+ d.eat();
+ d.bark();
 }
+// Rust
+struct Animal;
+struct Dog {
+ parent: Animal,
+}
+impl Animal {
+ fn eat(&self) {
+   println!("eating");
+ }
+}
+impl Dog {
+ fn bark(&self) {
+   println!("baf");
+ }
+ fn eat(&self) {
+   self.parent.eat();
+ }
 
+}
 fn find_random_category<'a>(data: &'a Value) -> (std::string::String, Option<&Value>) {
     let mut count = 0;
 
