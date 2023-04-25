@@ -1,8 +1,10 @@
 use crate::answer::Answer;
 use crate::prompt::Prompt;
+use crate::dao::Dao;
 
 mod answer;
 mod prompt;
+mod dao;
 
 fn main() {
     let p = Prompt {};
