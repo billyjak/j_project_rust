@@ -1,26 +1,22 @@
 use std::{fs, path::Path};
 
-use serde_json::{Value, Map};
+use serde_json::{Map, Value};
 
 pub struct Dao {}
 
 impl Dao {
-    pub fn get_serde_value() -> serde_json::Map<std::string::String, Value> {
-        
+    pub fn get_map_using_serde() -> serde_json::Map<std::string::String, Value> {
         let path: &Path = Path::new("src/resources/data.json");
+
         let contents: String =
-            fs::read_to_string(path).expect("Should have been able to read the file");
+            fs::read_to_string(path).unwrap_or("Should have been able to read the file".to_string());
+
         let data: Result<Value, serde_json::Error> = serde_json::from_str(&contents);
-        let result: Result<String, Value> = match data {
-            Ok(d) => {
-                let binding = d.as_object().unwrap();
-                return binding.clone()
-            },
-            Err(e) => {
-                let mut binding = Map::new();
-                binding["Error"] = "Sorry, we could not map the data".into();
-                return binding
-            }
-        };
+
+        return data
+            .unwrap_or("We could not unwrap the data".into())
+            .as_object()
+            .unwrap_or(&Map::new())
+            .clone();
     }
 }
