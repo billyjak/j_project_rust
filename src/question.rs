@@ -4,5 +4,4 @@ struct Question {
 }
 
 impl Question {
-    fn create_question(&self, )
 }

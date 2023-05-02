@@ -1,11 +1,10 @@
 use std::{fs, path::Path};
 
 use serde_json::{Map, Value};
-
 pub struct Dao {}
 
 impl Dao {
-    pub fn get_map_using_serde() -> serde_json::Map<std::string::String, Value> {
+    pub fn get_map_using_serde() -> serde_json::Map<String, Value> {
         let path: &Path = Path::new("src/resources/data.json");
 
         let contents: String =
