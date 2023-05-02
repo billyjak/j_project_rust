@@ -7,7 +7,16 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ccbfcf0c-c56f-4d4f-8e3c-469cfb11bc28" name="Changes" comment="" />
+    <list default="true" id="ccbfcf0c-c56f-4d4f-8e3c-469cfb11bc28" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/text.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/answer.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/answer.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dao.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/prompt.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/prompt.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/question.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/quiz.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/quiz.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +40,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/william/Programmm/JProjectRust",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true"
   }
 }]]></component>
@@ -60,6 +70,7 @@
   </component>
   <component name="RustProjectSettings">
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+    <option name="version" value="2" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
